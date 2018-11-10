@@ -1,0 +1,18 @@
+.am-wrapper{
+	float:left;
+	position:relative;
+	overflow:hidden;
+}
+.am-wrapper img{
+	position:absolute;
+	outline:none;
+}
+#web-proyect-background {
+width: 1920px;
+height: 1080px;
+position: fixed;
+left: 50%;
+margin-left: -860px;
+bottom: 0px;
+background-image: url(../multimedia/pattern.png);
+}
